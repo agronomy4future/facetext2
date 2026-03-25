@@ -1,9 +1,8 @@
-Package: facetext
+Package: facetext2
 Title: Easy Text Annotation for ggplot2 Faceted Plots
 Version: 0.2.0
 Authors@R: 
-    person("JK", "Kim", , "kimjk@agronomy4future.com", role = c("aut", "cre"),
-           comment = c(ORCID = "YOUR-ORCID-ID"))
+    person("JK", "Kim", , "kimjk@agronomy4future.com", role = c("aut", "cre"))
 Description: Provides two helper functions for adding text annotations 
     (e.g. significance labels, group letters) to ggplot2 faceted plots 
     using relative coordinates (0 to 1). facetext() supports single-variable 
